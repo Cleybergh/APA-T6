@@ -1,6 +1,6 @@
 # Expresiones Regulares
 
-## Nom i cognoms
+## David Bueno Cleybergh
 
 ## Tratamiento de ficheros de notas
 
